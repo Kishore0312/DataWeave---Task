@@ -37,3 +37,6 @@ Both the json files had been loaded as dictionaries.
 1. The http_status of both files has been stored in a single list.
 2. Then, the values in list is parsed into a dictionary.
 3. Inorder to find the failure, a constraint has been set and looped through dictionary to obtain the http_status.
+
+# OUTPUT:
+![OUTPUT](https://user-images.githubusercontent.com/59074144/124818268-71a33600-df88-11eb-986f-ee727201316a.png)
